@@ -39,4 +39,3 @@ $ go-snap < some.txt | go_snap --decode
 
 
 
-
