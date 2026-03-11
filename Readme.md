@@ -75,4 +75,3 @@ $ go-snap < some.txt | go-snap --decode
 
 
 
-
