@@ -30,4 +30,3 @@ $ go get github.com/drylikov/go_snap
 $ go-snap < some.txt | go-snap --decode
 ```
 
-
