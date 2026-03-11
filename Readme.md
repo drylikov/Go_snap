@@ -27,5 +27,5 @@ $ go get github.com/drylikov/go_snap
 ## Examples
 
 ```
-$ go-snap < some.txt | go-snap --decode
+$ go-snap < some.txt | go_snap --decode
 ```
